@@ -1,0 +1,6 @@
+{
+  "name": "Safeer AI Assistant",
+  "description": "Smart multilingual Android personal assistant in Urdu, Roman Urdu, and English with voice AI, daily goals, smart reminders, work timer, and phone actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
